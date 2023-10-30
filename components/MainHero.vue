@@ -13,7 +13,7 @@
 						<UIcon name="i-heroicons-phone" />
 						<span class="text-center">05 53 66 94 02</span>
 					</a>
-					<a href="tel:0553669402" class="w-1/2 sm:w-1/3 mx-auto flex items-center gap-2 text-white justify-center">
+					<a href="mailto:absolue.communication@orange.fr" class="w-1/2 sm:w-1/3 mx-auto flex items-center gap-2 text-white justify-center">
 						<UIcon name="i-heroicons-envelope" />
 						<span class="text-center">Envoyer un e-mail</span>
 					</a>
